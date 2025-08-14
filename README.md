@@ -1,3 +1,2 @@
-# Pedro Sousa Reposiory
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=4500&pause=1000&color=EF5D04&vCenter=true&width=435&lines=Hi+Pedro+Sousa+Here+%3A))](https://git.io/typing-svg)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
