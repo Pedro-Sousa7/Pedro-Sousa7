@@ -1,10 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=4500&pause=1000&color=EF5D04&vCenter=true&width=435&lines=Hi+Pedro+Sousa+Here+%3A%29)](https://git.io/typing-svg)
 
-## About me
-
-* 2nd Year Software Engineer Student
-* Bug Bounty Hunter
-
 ## My Mission
 
 I’m on a mission to build meaningful software and explore the world of cybersecurity. Through mking projects, coding challenges, and continuous learning, I aim to sharpen my skills, solve real-world problems, and share my work openly to inspire and collaborate with others.
@@ -15,4 +10,6 @@ I’m on a mission to build meaningful software and explore the world of cyberse
 
 ## Contact Me!
 📍 pedrohenriquems2006@gmail.com
+[!IMPORTANT]  
+📝 <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/1Csam6otcYaidddFwTeaOawSxTEAdvva6/view?usp=sharing)" download>My resune</a>
 
