@@ -2,17 +2,15 @@
 
 ## My Mission
 
-I’m on a mission to build meaningful software and explore the world of cybersecurity. Through mking projects, coding challenges, and continuous learning, I aim to sharpen my skills, solve real-world problems, and share my work openly to inspire and collaborate with others.
+I’m on a mission to build meaningful software and explore the world of cybersecurity.  
+Through making projects, taking on coding challenges, and continuous learning, I aim to sharpen my skills,  
+solve real-world problems, and share my work openly to inspire and collaborate with others.
 
 ## Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,git,java,js,linux,mysql,php,rust,tailwind,py,kali&perline=12)](https://skillicons.dev)
 
 ## Contact Me!
-📍 pedrohenriquems2006@gmail.com
+📍 **pedrohenriquems2006@gmail.com**
 
-📝 
-<a href="https://drive.google.com/file/d/1Csam6otcYaidddFwTeaOawSxTEAdvva6/view?usp=sharing" target="_blank">
-  My resume
-</a>
-
+📄 **[My Resume](https://drive.google.com/file/d/1Csam6otcYaidddFwTeaOawSxTEAdvva6/view?usp=sharing)**
