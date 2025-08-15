@@ -2,4 +2,9 @@
 
 ## My Mission
 
-I’m on a mission to build meaningful software and explore the world of cybersecurity. Through hands-on projects, coding challenges, and continuous learning, I aim to sharpen my skills, solve real-world problems, and share my work openly to inspire and collaborate with others.
+I’m on a mission to build meaningful software and explore the world of cybersecurity. Through mking projects, coding challenges, and continuous learning, I aim to sharpen my skills, solve real-world problems, and share my work openly to inspire and collaborate with others.
+
+## Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,git,java,js,linux,mysql,php,rust,tailwind,py&perline=7)](https://skillicons.dev)
+
