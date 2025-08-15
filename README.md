@@ -16,3 +16,6 @@ I’m on a mission to build meaningful software and explore the world of cyberse
   My resume
 </a>
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
