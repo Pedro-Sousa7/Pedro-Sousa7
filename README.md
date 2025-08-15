@@ -6,5 +6,5 @@ I’m on a mission to build meaningful software and explore the world of cyberse
 
 ## Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,git,java,js,linux,mysql,php,rust,tailwind,py&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,git,java,js,linux,mysql,php,rust,tailwind,py&perline=12)](https://skillicons.dev)
 
