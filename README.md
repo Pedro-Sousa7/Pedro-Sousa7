@@ -16,6 +16,6 @@ I’m on a mission to build meaningful software and explore the world of cyberse
   My resume
 </a>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Pedro-Sousa7)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Sousa7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
