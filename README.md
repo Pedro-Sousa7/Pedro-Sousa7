@@ -11,7 +11,8 @@ I’m on a mission to build meaningful software and explore the world of cyberse
 ## Contact Me!
 📍 pedrohenriquems2006@gmail.com
 
+📝 
 <a href="https://drive.google.com/file/d/1Csam6otcYaidddFwTeaOawSxTEAdvva6/view?usp=sharing" target="_blank">
-  📝 My resume
+  My resume
 </a>
 
